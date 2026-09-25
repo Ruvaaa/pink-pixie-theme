@@ -1,8 +1,25 @@
 {
-  "name": "fairy-pink-dark-",
-  "displayName": "Fairy Pink Dark ",
-  "description": "A fairy pink Dark color theme ",
+  "name": "fairy-pink-dark",
+  "displayName": "Fairy Pink Dark",
+  "description": "A dreamy dark VS Code theme with soft fairy-pink accents.",
   "version": "0.0.1",
+  "icon": "icon.png",
+  "publisher": "Ruvaaaaaa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ruvaaa/pink-pixie-theme"
+  },
+  "keywords": [
+    "theme",
+    "pink",
+    "dark theme",
+    "pink theme",
+    "fairy",
+    "fairy pink",
+    "cute theme",
+    "girly theme",
+    "dark pink"
+  ],
   "engines": {
     "vscode": "^1.138.0"
   },
